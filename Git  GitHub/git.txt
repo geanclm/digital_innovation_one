@@ -1,0 +1,19 @@
+Link para download
+------------------
+https://git-scm.com/
+
+
+
+comandos executados:
+------------------
+$ git clone https://github.com/geanclm/dio-repositorio-github-primeiro-desafio.git
+
+$ git status
+
+$ git add .
+
+$ git status
+
+$ git commit -m 'inclusão de imagem e arquivo txt'
+
+$ git status
