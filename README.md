@@ -16,11 +16,11 @@ Etapas concluídas:
 - Conceitos e melhores práticas com bancos de dados PostgreSQL
 - Análise de dados com Python e Pandas
 - Fundamentos de ETL com Python
-
-Em andamento:
-- Introdução à programação com Python
 - Segurança da informação com Python
 
+Em andamento:
+
+- Introdução à programação com Python
 
 
 by geanclm in 19/03/2022
