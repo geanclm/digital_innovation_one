@@ -1,0 +1,26 @@
+Anotações 
+by geanclm in 01/05/2022
+---
+
+Pensamento computacional
+
+- pode ser aplicado na escrita, leitura e matemática
+- PILARES
+	- decomposição
+	- reconhecimento de padrões
+	- abstração
+	- design de algorítmos
+
+- COMPETÊNCIAS:
+	- pensamento sistemático
+	- colaboração dentro da equipe
+	- criatividade e design
+	- facilitador
+
+- HABILIDADES
+	- raciocínio lógico [indução, dedução, abdução]
+	- aperfeiçoamento [solução efeiciente, otimizar processos,
+		simplificar código, funções bem definidas]
+		Vantagens: maior compreensão, mais eficiência,
+		menos tempo, menos armazenamento.
+	-
