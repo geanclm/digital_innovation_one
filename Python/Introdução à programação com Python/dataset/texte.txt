@@ -1,0 +1,4 @@
+Gean,10,9,8,9
+Carlos,9,8,9,7
+Luciano,10,8,9,7
+Madeira,9,8,8,7
