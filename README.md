@@ -17,10 +17,13 @@ Etapas concluídas:
 - Análise de dados com Python e Pandas
 - Fundamentos de ETL com Python
 - Segurança da informação com Python
+- Introdução a Engenharia de Dados na AWS
+- Introdução à programação com Python
 
 Em andamento:
 
-- Introdução à programação com Python
+- Pensamento Computacional
+
 
 
 by geanclm in 19/03/2022

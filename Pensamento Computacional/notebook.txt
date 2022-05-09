@@ -1,10 +1,11 @@
-Anotações 
+
 by geanclm in 01/05/2022
 ---
 
 Pensamento computacional
 
 - pode ser aplicado na escrita, leitura e matemática
+
 - PILARES
 	- decomposição
 	- reconhecimento de padrões
@@ -23,4 +24,24 @@ Pensamento computacional
 		simplificar código, funções bem definidas]
 		Vantagens: maior compreensão, mais eficiência,
 		menos tempo, menos armazenamento.
-	-
+
+------------
+DECOMPOSIÇÃO
+------------
+	- quebrar o problema em diferentes partes
+	- análise
+	- síntese
+	- estratégia [sequêncial, paralelo]
+
+	- como decompor?
+		- problema principal em segundo plano e estudo das partes
+		- coletar dados
+		- exemplo: o processo de cozinhar
+		- exemplo: o funcionamento completo da bicicleta
+		- exemplo: criar um app
+		- exemplo: artigo
+		- exemplo: movimentos de um avatar (EAP com as ações)
+
+
+
+
