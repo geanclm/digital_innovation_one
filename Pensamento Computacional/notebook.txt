@@ -43,5 +43,151 @@ DECOMPOSIÇÃO
 		- exemplo: movimentos de um avatar (EAP com as ações)
 
 
+------------------------
+RECONHECIMENTO DE PADRÃO
+------------------------
+	- modelo base
+	- estrutura invariante
+
+	- repetição
+		- compressão de dados
+
+	PADRÕES:
+		- representação de atributos
+		- aprendizado - conceito associado ao objeto
+		- armazenar dados
+		- regras de decisão
+
+- classificação de dados
+- reconhecimento de imagem
+- reconhecimento de fala
+- análise de cenas
+- classificação de documentos
+- machine learning
+- redes neurais
+- inteligência artificial
+- ciência de dados
+
+
+----------
+ABSTRAÇÃO
+----------
+	- generalizar
+	- como classificar os dados?
+		- caraceterísticas
+		- pontos essenciais
+
+	- algorítimos:
+		- merge sort
+		- clusteting
+		- busca binária
+
+	- estrutuas de dados
+		- lista
+		- árvore
+		- grafos
+
+	linguagem de programação
+		- python
+
+	ambiente de redes de computadores
+		- comunicação broadcast
+		- síncrona
+
+	arquiteturas:
+		camadas TCP/IP
+		rede tipo estrela
+
+Exempplo: por onde começar a limpar um terreno?
+
+
+
+
+---------
+ALGORÍTMO
+---------
+	- sequência de passos com um objetivo definido
+	- execução de tarefas específicas
+	- conjunto de operações que resultam em um sucessão de finitas de ações
+
+	Exmplo: preparar um sanduíche, trocar uma lâmpada, trajeto ao trabalho, receita de bolo
+
+
+Passos da construção do algorítmo:
+	1 - compreensão do problema
+	2 - definição dos dados
+	3 - definir processamento
+	4 - definir dados de saída
+	5 - utilizar um método de construção
+	6 - teste e diagnóstico
+
+
+	NARRATIVA
+		utilização da linguagem natural
+	FLUXOGRAMA
+		conhecimento prévido da estrutura de símbolos
+	PSEUDOCÓDIGO
+		portugol, passos a serem seguidos
+
+
+----------------
+ESTUDO DE CASO 1
+	uma pessoa perdida na floresta
+		sobrevivência: água, comida, abrigo, mapa, resgate
+			elemento essencial: fogo
+
+	decomposição
+	reconhecimento de padrões
+	abstração
+----------------
+
+
+
+
+----------------
+ESTUDO DE CASO 2
+	soma de n números entre 1 e 200
+		qual a solução mais eficiente
+			200 + 1 = 201
+			199 + 2 - 201
+			198 + 3 = 201
+
+			201 z 100 = 20100
+
+			(y-1) + (x+1) = resultado parcial
+
+			Passo: [(a1+an)*n]/2
+----------------
+
+
+
+----------------
+ESTUDO DE CASO 3
+	Adivinhe um número
+		o número é 1?
+		o número é 2?
+		o número é 3?
+			NÃO É EFICIENTE!
+
+
+		o número é par?
+		o número é maior que 20?
+----------------
+
+
+
+----------------
+ESTUDO DE CASO 4
+	busca binária
+		busca mais eficiente
+
+passo 1 - ordenar o vetor
+passo 2 - módulo de l/2
+passo 3	- acessar a estrutura
+passo 4	- comparar valores
+passo 5	- repita até encontrar o número
+passo 6	- imprima 'busca bem sucedida'
+----------------
+
 
 
