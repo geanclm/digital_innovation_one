@@ -1,0 +1,2 @@
+apt isntall nmap
+apt remove nmap
