@@ -1,0 +1,15 @@
+boa prática para excluir o registro correto no banco de dados
+
+mysql> select * from cursos WHERE nome='Economia';
+mysql> delete from cursos WHERE nome='Economia';
+
+
+mysql> delete from cursos WHERE nome='Economia';
+mysql> delete from cursos WHERE nome='Economia';
+
+
+# apaga a tabela do banco de dados
+DROP TABLES cursos;
+
+# apaga o banco de dados
+DROP DATABASES dio_mysql
