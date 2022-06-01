@@ -1,0 +1,134 @@
+---| INFORMAÇÕES SOBRE IP |---
+
+192.168.0.106 
+
+---| INFORMAÇÕES SOBRE IP Loopback |---
+
+127.0.1.1
+
+---| INFORMAÇÕES DNS www.pudim.com.br |---
+
+
+; <<>> DiG 9.18.1-1ubuntu1-Ubuntu <<>> www.pudim.com.br
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26303
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;www.pudim.com.br.		IN	A
+
+;; ANSWER SECTION:
+www.pudim.com.br.	564	IN	CNAME	pudim.com.br.
+pudim.com.br.		564	IN	A	54.207.20.104
+
+;; Query time: 0 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Wed May 11 21:17:53 -03 2022
+;; MSG SIZE  rcvd: 75
+
+
+---| INFORMAÇÕES sobre usuário da rede |---
+
+ 21:19:44 up  3:06,  1 user,  load average: 1,96, 1,61, 1,47
+USUARIO  TTY      DE               LOGIN@   OCIOSO JCPU   PCPU O QUE
+s145     tty2     tty2             18:15    6:05m  0.02s  0.00s /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+
+---| INFORMAÇÕES ping www.pudim.com.br |---
+
+PING pudim.com.br (54.207.20.104) 56(84) bytes of data.
+
+--- pudim.com.br ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5106ms
+
+
+---| INFORMAÇÕES de rota ao site www.pudim.com.br |---
+
+traceroute to pudim.com.br (54.207.20.104), 64 hops max
+  1   192.168.0.1  4,107ms  0,746ms  0,750ms 
+  2   192.168.1.1  1,624ms  1,001ms  0,904ms 
+  3   100.99.96.1  5,073ms  4,867ms  2,516ms 
+  4   100.64.20.29  3,825ms  *  54,698ms 
+  5   172.16.128.153  23,798ms  4,832ms  31,545ms 
+  6   172.16.132.225  26,225ms  8,245ms  42,220ms 
+  7   172.16.132.245  13,369ms  16,596ms  16,172ms 
+  8   172.16.128.181  15,566ms  14,749ms  16,195ms 
+  9   172.16.130.97  30,882ms  21,231ms  27,005ms 
+ 10   187.16.221.99  62,346ms  74,647ms  378,579ms 
+ 11   52.93.146.197  222,667ms  129,810ms  72,783ms 
+ 12   150.222.69.83  61,424ms  61,084ms  70,572ms 
+ 13   150.222.70.102  59,382ms  57,290ms  60,163ms 
+ 14   52.93.44.89  57,307ms  61,427ms  57,697ms 
+ 15   54.240.244.72  61,183ms  59,175ms  55,733ms 
+ 16   *  *  * 
+ 17   *  *  * 
+ 18   *  *  * 
+ 19   *  *  * 
+ 20   *  *  * 
+ 21   *  *  * 
+ 22   *  *  * 
+ 23   *  *  * 
+ 24   *  *  * 
+ 25   *  *  * 
+ 26   *  *  * 
+ 27   *  *  * 
+ 28   *  *  * 
+ 29   *  *  * 
+ 30   *  *  * 
+ 31   *  *  * 
+ 32   *  *  * 
+ 33   *  *  * 
+ 34   *  *  * 
+ 35   *  *  * 
+ 36   *  *  * 
+ 37   *  *  * 
+ 38   *  *  * 
+ 39   *  *  * 
+ 40   *  *  * 
+ 41   *  *  * 
+ 42   *  *  * 
+ 43   *  *  * 
+ 44   *  *  * 
+ 45   *  *  * 
+ 46   *  *  * 
+ 47   *  *  * 
+ 48   *  *  * 
+ 49   *  *  * 
+ 50   *  *  * 
+ 51   *  *  * 
+ 52   *  *  * 
+ 53   *  *  * 
+ 54   *  *  * 
+ 55   *  *  * 
+ 56   *  *  * 
+ 57   *  *  * 
+ 58   *  *  * 
+ 59   *  *  * 
+ 60   *  *  * 
+ 61   *  *  * 
+ 62   *  *  * 
+ 63   *  *  * 
+ 64   *  *  * 
+
+---| INFORMAÇÕES de Inferface de rede e Endereços IP |---
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Loopback Local)
+        RX packets 18276  bytes 2704688 (2.7 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 18276  bytes 2704688 (2.7 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp2s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.106  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::422e:27a5:d43c:78c8  prefixlen 64  scopeid 0x20<link>
+        ether 64:32:a8:9c:3b:96  txqueuelen 1000  (Ethernet)
+        RX packets 1284222  bytes 1509918346 (1.5 GB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 373036  bytes 65998843 (65.9 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+

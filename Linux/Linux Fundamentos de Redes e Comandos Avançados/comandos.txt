@@ -1,0 +1,58 @@
+    1  history
+    2  alias = hh='history'
+    3  hh
+    4  alias trc='traceroute'
+    5  trc www.googlec.om
+    6  trc www.google.com
+    7  ls -l
+    8  cd ..
+    9  cd Documentos/
+   10  cd Cursos/
+   11  cd dio/
+   12  cd Linux_Fundamentos/
+   13  cat aulaRedes.txt 
+   14  nl cat aulaRedes.txt 
+   15  wc aulaRedes.txt 
+   16  wc -l aulaRedes.txt 
+   17  wc -w aulaRedes.txt 
+   18  wc -m aulaRedes.txt 
+   19  ls -a
+   20  ls -F
+   21  ls -l
+   22  cat vazio.txt 
+   23  cmp aulaRedes.txt vazio.txt 
+   24  diff aulaRedes.txt vazio.txt 
+   25  sort vazio.txt 
+   26  sort -n vazio.txt 
+   27  last reboot
+   28  route -n
+   29  time
+   30  time traceroute www.google.com.br
+   31  uptime
+   32  cowsay
+   33  sudo apt install cowsay
+   34  cowsay "Linux é Bom"
+   35  cowsay -g
+   36  cowsay -g "linux"
+   37  cowsay -f tux "Linux"
+   38  cowsay -f vader "Linux"
+   39  cowsay -f vader-koala "Linux"
+   40  cowsay -f dragon "Linux"
+   41  cowsay --help
+   42  man cowsay
+   43  xcowsay
+   44  sudo apt install xcowsay
+   45  xcowsay "Linux"
+   46  sudo apt install xmatrix
+   47  sudo apt install cmatrix
+   48  ls -l
+   49  cmatrix
+   50  init 0 desliga
+       telinit 0
+   51  halt
+   52  sqe 1 10
+   53  seq 1 10
+   54  seq 1 10, end=' '
+   55  seq 1 10
+   56  ls -l
+   57  history > comandos.txt

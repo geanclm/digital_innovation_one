@@ -1,0 +1,97 @@
+inux: Fundamentos de Redes e Comandos Avançados
+Comandos history, alias e outras interações com arquivos .txt
+
+
+ifconfig
+hostaname
+
+312  ifconfig
+  313  sudo apt intall net-tools
+  314  sudo apt install net-tools
+  315  ifconfig
+  316  hostname
+  317  hostname -I
+  318  hostname -i
+  319  who
+  320  whoami
+  321  ping www.google.com
+  322  ping www.google.com -w 
+  323  ping www.google.com -w 4
+  324  dig
+  325  dig www.google.com
+  326  traceroute
+  327  sudo apt install intutils-tracetoute
+  328  sudo apt install inetutils-tracetoute
+  329  sudo apt install inetutils-traceroute
+  330  traceroute www.google.com
+  331  dig www.google.com +short
+  332  whois
+  333  sudo apt install whois
+  334  whois www.pudim.com.br
+  335  finger
+  336  sudo apt install finger
+  337  finger
+  338  w
+  339  pwd
+  340  cd ..
+  341  cd tmp/
+  342  ls
+  343  touch aulaRedes.txt
+  344  ifconfig
+  345  hostname -I
+  346  hostname -I > aulaRedes.txt 
+  347  cat aulaRedes.txt 
+  348  hostname -i
+  349  hostname -i >> aulaRedes.txt 
+  350  cat aulaRedes.txt 
+  351  whois www.pudim.com.br
+  352  whois www.pudim.com.br >> aulaRedes.txt 
+  353  w
+  354  ls -l
+  355  cd ..
+  356  pwd
+  357  cd ~
+  358  cd Documentos/
+  359  ls
+  360  cd Cursos/
+  361  cd dio/
+  362  ls
+  363  touch aulaRedes.txt
+  364  hostname -I
+  365  hostname -I >> aulaRedes.txt 
+  366  hostname -i
+  367  hostname -i >> aulaRedes.txt 
+  368  whois www.pudim.com.br
+  369  whois www.pudim.com.br >> aulaRedes.txt 
+  370  w
+  371  ls
+  372  w
+  373  w >> aulaRedes.txt
+  374  cat aulaRedes.txt 
+  375  ping www.pudim.com.br -w 6
+  376  history 
+  377  ping www.pudim.com.br
+  378  ping www.google.com -w 6
+  379  ping www.google.com -w 6 >> aulaRedes.txt 
+  380  traceroute www.pudim.com.br
+  381  traceroute www.google.com
+  382  traceroute www.google.com >> aulaRedes.txt 
+  383  ifconfig
+  384  ifconfig >> aulaRedes.txt 
+  385  clear
+  386  cat aulaRedes.txt | less
+  387  history 
+
+
+https://bellard.org/jslinux/
+
+---
+!ideia de locação de recursos totalmente
+online sem necessiade de instalação local
+by geanclm
+---
+
+
+
+
+

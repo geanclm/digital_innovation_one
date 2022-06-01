@@ -17,3 +17,13 @@ $ git status
 $ git commit -m 'inclusão de imagem e arquivo txt'
 
 $ git status
+
+
+outros executados:
+------------------
+$ git add .
+$ git commit -am "jogo jokenpo"
+$ git push heroku master
+
+
+
