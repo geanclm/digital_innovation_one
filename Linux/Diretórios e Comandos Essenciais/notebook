@@ -1,0 +1,5 @@
+Para iniciar servidor Apache no linux Ubuntu
+root@s145-Lenovo-IdeaPad-S145-15IWL:/etc/apache2# systemctl start apache2
+
+site para aprimorar os conhecimentos de linux
+https://guiafoca.org/
