@@ -1,9 +1,8 @@
-
-by geanclm in 01/05/2022
+ by geanclm in 01/05/2022 - Cognizant Cloud Data Engineer
 ---
-
+by geanclm in 25/09/2022 - Geração Tech Unimed-BH - Ciência de Dados
+---
 Pensamento computacional
-
 - pode ser aplicado na escrita, leitura e matemática
 
 - PILARES
@@ -11,6 +10,7 @@ Pensamento computacional
 	- reconhecimento de padrões
 	- abstração
 	- design de algorítmos
+		-> refinamento -> teste -> análise ->
 
 - COMPETÊNCIAS:
 	- pensamento sistemático
@@ -20,10 +20,20 @@ Pensamento computacional
 
 - HABILIDADES
 	- raciocínio lógico [indução, dedução, abdução]
-	- aperfeiçoamento [solução efeiciente, otimizar processos,
-		simplificar código, funções bem definidas]
+		INFERÊNCIA 	---> SINTÉTICA
+					ABDUÇÃO
+					INDUÇÃO
+				---> ANALÍTICA
+					DEDUÇÃO
+
+
+	- aperfeiçoamento
+		solução eficiente, otimizar processos,
+		simplificar código, funções bem definidas
 		Vantagens: maior compreensão, mais eficiência,
 		menos tempo, menos armazenamento.
+
+
 
 ------------
 DECOMPOSIÇÃO
